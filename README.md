@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💡INFO
+### 💡 INFO
 - Seoul National University, Dept of Economics (2017~ )
 - Google Machine Learning Bootcamp (2021)
 - BITAMIN (2021)
 
-### 🤔INTEREST
+### 🤔 INTEREST
 - Causal Inference
 - Recommendation System
 - Behavirol Economics
 
-### 🛠Skill Stack
+### 🛠 Skill Stack
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 - <img src="https://img.shields.io/badge/Tensorflow-FFFF00?style=flat-square&logo=Tensorflow&logoColor=grey"/></a> 
 - <img src="https://img.shields.io/badge/Scikitlearn-FFC0CB?style=flat-square&logo=scikit-learn&logoColor=grey"/></a> 
