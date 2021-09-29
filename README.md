@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 ### 🛠Skill Stack
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-FFFF00?style=flat-square&logo=Tensorflow&logoColor=grey"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+
+<img src="https://img.shields.io/badge/Tensorflow-FFFF00?style=flat-square&logo=Tensorflow&logoColor=grey"/></a>
