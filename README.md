@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 💡 INFO
-- Seoul National University, (Major)Dept of Economics, 
-  (Minor) Dept of Computer Science and Engineering (2017~ )
+- Seoul National University
+- (Major) Dept of Economics (2017~ )
+- (Minor) Dept of Computer Science and Engineering (2022~ )
 - Google Machine Learning Bootcamp (2021)
 - BITAMIN (2021)
 
