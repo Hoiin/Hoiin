@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - BITAMIN (2021)
 
 ### 🤔 INTEREST
-- Causal Inference
+- Reinforcement Learning
 - Recommendation System
 - Behavirol Economics
 
