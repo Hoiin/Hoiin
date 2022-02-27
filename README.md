@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🤔 INTEREST
 - Reinforcement Learning
 - Recommendation System
-- Behavirol Economics
+- Decision Making under Uncertainty
 
 ### 🛠 Skill Stack
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
