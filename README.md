@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 - (Minor) Dept of Computer Science and Engineering (2022~ )
 - Google Machine Learning Bootcamp (2021)
 - BITAMIN (2021)
+- ML Engineer at Zai
 
 ### 🤔 INTEREST
-- Reinforcement Learning
 - Recommendation System
 - Decision Making under Uncertainty
+- MLops
 
 ### 🛠 Skill Stack
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
